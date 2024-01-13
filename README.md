@@ -1,7 +1,7 @@
 # Lingle
 
 ## Introduction
-- I made this project with Team Phoenixes for Makers SWE Specialism Module 2 - Engineering Project 3
+- I made this project with Team Phoenixes for Makers SWE Specialism Module 4 - Engineering Project 3
 - It is a fun, interactive language learning app for children.
 - It implements text-to-speech using Kotlin and Jetpack Compose.
 - The user can select a category to generate a game of five picture cards, which they can flip to reveal the word and text-to-speach generated pronouciation.
