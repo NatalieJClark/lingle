@@ -4,7 +4,7 @@
 - I made this project with Team Phoenixes for Makers SWE Specialism Module 4 - Engineering Project 3
 - It is a fun, interactive language learning app for children.
 - It implements text-to-speech using Kotlin and Jetpack Compose.
-- The user can select a category to generate a game of five picture cards, which they can flip to reveal the word and text-to-speach generated pronouciation.
+- The user can select a category to generate a game of five picture cards. They can flip each card in turn, to reveal the word and text-to-speech generated pronouciation.
 <img width="1434" alt="image" src="https://github.com/NatalieJClark/lingle/assets/107806810/25403eae-2d31-44a4-99bc-74f6f7366324">
 <img width="1440" alt="image" src="https://github.com/NatalieJClark/lingle/assets/107806810/e123bf29-c93f-4fe0-a9d1-5a2fe610d391">
 
